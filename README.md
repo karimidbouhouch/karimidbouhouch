@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
-![](https://komarev.com/ghpvc/?username=karimidbouhouch&color=green)
 
 <!--
+![](https://komarev.com/ghpvc/?username=karimidbouhouch&color=green)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimidbouhouch&show_icons=true&theme=merko)
 -->
 
